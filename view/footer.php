@@ -6,7 +6,7 @@
 
     <div id="footer">
       <div class="container">
-        <p class="text-muted">Footer content here.</p>
+        <p class="text-muted">5110 NE Sandy Blvd, Portland, OR 97213 | (503) 288-6275 | theShop@gmail.com<p>
       </div>
     </div>
 
