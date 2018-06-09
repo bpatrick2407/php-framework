@@ -18,7 +18,7 @@
                       </div>
                     </div>
                     <div class="col-xs-6">
-                        <img src="<?= $product['imagePath']?>" class="img-thumbnail">
+                        <img src="<?= $product['imagePath']?>" class="img-thumbnail"  width="200" height="200">
                     </div>
                 </div>
             <?php } ?>
